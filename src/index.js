@@ -8,7 +8,7 @@ module.exports = function () {
         path.node.openingElement.attributes = path.node.openingElement.attributes.map(
           a => {
             if (a.name && a.name.name === 'styleName') {
-              a.name.name = 'data-styleName'
+              a.name.name = 'data-stylename'
             }
             return a
           }

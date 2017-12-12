@@ -1,6 +1,6 @@
 # babel-plugin-data-stylename
 
-Replace all `styleName` attributes with `data-styleName`.
+Replace all `styleName` attributes with `data-stylename`.
 
 
 ## Install

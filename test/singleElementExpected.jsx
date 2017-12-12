@@ -1,1 +1,1 @@
-export default (() => <div data-styleName="aardvark" className="xebu">Wombat.</div>);
+export default (() => <div data-stylename="aardvark" className="xebu">Wombat.</div>);
