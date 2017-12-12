@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-data-stylename",
-  "version": "0.2.0",
-  "description": "Rewrites `styleName` attributes to `data-styleName`.",
+  "version": "0.1.1",
+  "description": "Rewrites `styleName` attributes to `data-stylename`.",
   "main": "dist/index.js",
   "dependencies": {},
   "devDependencies": {
